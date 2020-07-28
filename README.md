@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - Speech recognition system for grading K-12 student Oral Reading Fluency
+  - Speech recognition management system for grading K-12 student Oral Reading Fluency
   - A distributed testing system for School Districts in the United States
 
 - 🌱 To keep my mind sharp, I’m currently working through ...
