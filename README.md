@@ -4,7 +4,7 @@
   - Speech recognition system for grading K-12 student Oral Reading Fluency
   - A distributed testing system for School Districts in the United States
 
-- 🌱 I’m currently working through ...
+- 🌱 To keep my mind sharp, I’m currently working through ...
   - Leetcode questions for Golang and Python
   - Cracking the Coding Interview questions for Golang and Python
   
